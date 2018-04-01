@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="745 405 320 375"
+  width="320" height="375">
+  <path d=" M 935 470 C 935 434.126 964.126 405 1000 405 C 1035.874 405 1065 434.126 1065 470 C 1065 505.874 1035.874 535 1000 535 C 964.126 535 935 505.874 935 470 Z "
+    fill="rgb(0,240,61)" />
+  <path d=" M 745 470 C 745 434.126 774.126 405 810 405 C 845.874 405 875 434.126 875 470 C 875 505.874 845.874 535 810 535 C 774.126 535 745 505.874 745 470 Z "
+    fill="rgb(0,240,61)" />
+  <path d=" M 780 610 C 780 516.174 836.011 440 905 440 C 973.989 440 1030 516.174 1030 610 C 1030 703.826 973.989 780 905 780 C 836.011 780 780 703.826 780 610 Z "
+    fill="rgb(0,255,76)" />
+  <clipPath id="_clipPath_dw9eXpk3O8Rs0P8K0Z3DNSshRqL4w4uh">
+    <path d=" M 780 610 C 780 516.174 836.011 440 905 440 C 973.989 440 1030 516.174 1030 610 C 1030 703.826 973.989 780 905 780 C 836.011 780 780 703.826 780 610 Z "
+      fill="rgb(0,255,76)" />
+  </clipPath>
+  <g clip-path="url(#_clipPath_dw9eXpk3O8Rs0P8K0Z3DNSshRqL4w4uh)">
+    <path d=" M 840 560 C 840 524.126 869.126 495 905 495 C 940.874 495 970 524.126 970 560 C 970 595.874 940.874 625 905 625 C 869.126 625 840 595.874 840 560 Z "
+      fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="3" stroke="rgb(0,0,0)" stroke-linejoin="miter"
+      stroke-linecap="square" stroke-miterlimit="3" />
+    <clipPath id="_clipPath_xlaldXi2UGsquurR0VCQhX1VtegqEvlj">
+      <path d=" M 840 560 C 840 524.126 869.126 495 905 495 C 940.874 495 970 524.126 970 560 C 970 595.874 940.874 625 905 625 C 869.126 625 840 595.874 840 560 Z "
+        fill="rgb(255,255,255)" vector-effect="non-scaling-stroke" stroke-width="3" stroke="rgb(0,0,0)" stroke-linejoin="miter"
+        stroke-linecap="square" stroke-miterlimit="3" />
+    </clipPath>
+    <g clip-path="url(#_clipPath_xlaldXi2UGsquurR0VCQhX1VtegqEvlj)">
+      <path d=" M 880 560 C 880 546.202 891.202 535 905 535 C 918.798 535 930 546.202 930 560 C 930 573.798 918.798 585 905 585 C 891.202 585 880 573.798 880 560 Z "
+        fill="rgb(0,0,0)" />
+    </g>
+    <path d=" M 840 430 C 840 394.126 869.126 365 905 365 C 940.874 365 970 394.126 970 430 C 970 465.874 940.874 495 905 495 C 869.126 495 840 465.874 840 430 Z "
+      fill="rgb(0,255,68)" />
+    <path d=" M 865 700 L 945 700 L 905 740 L 865 700 Z " fill="rgb(31,31,31)" vector-effect="non-scaling-stroke" stroke-width="1"
+      stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+    <clipPath id="_clipPath_T8i4vvWTK1tBEKR37yPe2ONsuuN7nuag">
+      <path d=" M 865 700 L 945 700 L 905 740 L 865 700 Z " fill="rgb(31,31,31)" vector-effect="non-scaling-stroke" stroke-width="1"
+        stroke="rgb(0,0,0)" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" />
+    </clipPath>
+    <g clip-path="url(#_clipPath_T8i4vvWTK1tBEKR37yPe2ONsuuN7nuag)">
+      <path d=" M 885 700 L 925 700 L 905 720 L 885 700 Z " fill="rgb(255,0,0)" />
+    </g>
+  </g>
+</svg>

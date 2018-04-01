@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  background-color: #1b1b1b;
+}
+
+.svg {
+  display: block;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.lid {
+}
+
+.eye {
+  --x: 0;
+  --y: 0;
+  transform: translate(
+    calc(var(--x) * 1%),
+    calc(var(--y) * 1%)
+  );
+}
+
+
+ 
